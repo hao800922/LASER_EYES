@@ -21,4 +21,5 @@ $<code>cd LASER_EYES</code>
 $<code>sudo pip3 install -r requirements.txt</code>  
     
 ## How to play?
+$<code>C:\Program Files (x86)\IntelSWTools\openvino_2020.1.033\bin\setupvars.bat</code>  
 $<code>python3 lasereye.py</code>  
